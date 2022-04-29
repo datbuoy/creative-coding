@@ -1,0 +1,4 @@
+networks:
+    default: development
+    cmd_settings:
+        accounts: 10
